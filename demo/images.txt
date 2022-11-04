@@ -2,7 +2,3 @@ https://github.com/InakyMartinez/DigitalSignage/raw/main/assets/Exhibition01.png
 https://github.com/InakyMartinez/DigitalSignage/raw/main/assets/Exhibition02.png
 https://github.com/InakyMartinez/DigitalSignage/raw/main/assets/Exhibition03.png
 https://github.com/InakyMartinez/DigitalSignage/raw/main/assets/Exhibition04.png
-
-
-
-
